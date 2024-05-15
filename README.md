@@ -3,11 +3,11 @@
 
 I am Erick Jed O. Diaz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
-Degree:BS Information Technology
+Degree: BS Information Technology.
 
-University:New Era University
+University: New Era University.
 
-Duration:2024-Present
+Duration: 2024-Present.
 
 Certification:
 
@@ -25,7 +25,9 @@ SQL and Relational Databases 101 : https://courses.cognitiveclass.ai/certificate
 Skill sets:
 
 Programming :  Java, Javascript
+
 Databases: IBM DB2 Cloud
+
 Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 You may reach me at:
