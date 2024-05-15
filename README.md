@@ -4,11 +4,13 @@
 I am Erick Jed O. Diaz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 Education:
+
 BS Information Technology
 New Era University
 2024-Present
 
 Certification:
+
 Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate : 
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=1B70616E06FD032453FC65EDEC9DAC5F55C0AEF6E13D1217B097F37D2A7B8EBA&fbclid=IwZXh0bgNhZW0CMTEAAR3WPUq50ak3xyHfsPeb0YgvLELrACEYAPuU9Bs5jwbN5jmZnI5Jzb6UqWM_aem_ASsk4CcxUzLMUI9_Wdep_9_bEron4kJeJz-SZR
 
@@ -21,6 +23,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=1BFDE7BD831B53C6
 SQL and Relational Databases 101 : https://courses.cognitiveclass.ai/certificates/7b8f1d6f336c41d39c03f2fd86b51e9c
 
 Skill sets:
+
 Programming :  Java, Javascript
 Databases: IBM DB2 Cloud
 Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
